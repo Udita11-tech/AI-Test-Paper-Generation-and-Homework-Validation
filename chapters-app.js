@@ -294,9 +294,12 @@ console.log(extractedText.slice(-1000));
   <option>Chemistry</option>
   <option>Biology</option>
   <option>Geography</option>
-  <option>English</option>
-  <option>Social Science</option>
+  <option>History</option>
+  <option>Civics</option>
+  <option>Economics</option>
   <option>Hindi</option>
+  <option>English</option>
+  
 </select>
                   </div>
 

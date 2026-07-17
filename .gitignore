@@ -1,0 +1,9 @@
+backend/.env
+backend/venv/
+backend/bin/
+backend/__pycache__/
+backend/**/__pycache__/
+backend/*.pyc
+backend/**/*.pyc
+backend/data/chroma_db/
+backend/data/uploads/

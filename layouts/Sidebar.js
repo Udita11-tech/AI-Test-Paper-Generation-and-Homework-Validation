@@ -5,6 +5,7 @@ function Sidebar({ currentPath }) {
         { name: 'Test Generator', icon: 'file-text', path: 'generator.html' },
         { name: 'Homework Validation', icon: 'check-square', path: 'validation.html' },
         { name: 'Reports & Analytics', icon: 'chart-bar', path: 'reports.html' },
+        { name: 'AI Tutor', icon: 'bot', path: 'chatbot.html' },
         { name: 'Settings', icon: 'settings', path: 'settings.html' },
     ];
 

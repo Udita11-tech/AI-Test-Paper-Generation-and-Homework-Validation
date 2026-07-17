@@ -899,6 +899,7 @@ return result;
   <option>Civics</option>
   <option>Economics</option>
   <option>Hindi</option>
+  <option>English</option>
 </select>
                 </div>
 
