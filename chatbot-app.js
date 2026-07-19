@@ -13,7 +13,7 @@ const { useState, useEffect, useRef } = React;
 // Where the teammate's FastAPI backend chat endpoint lives.
 // Leave BACKEND_CONNECTED = false to keep using dummy answers.
 const BACKEND_CONNECTED = true;
-const CHAT_ENDPOINT = "http://127.0.0.1:8000/chat";
+const CHAT_ENDPOINT = "https://chapter-doubt-chatbot.onrender.com/chat";
 
 // The localStorage key your other modules use to store saved chapters.
 // Adjust this if Chapter Management saves under a different key.
