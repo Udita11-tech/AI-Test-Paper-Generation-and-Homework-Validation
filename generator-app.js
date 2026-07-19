@@ -174,7 +174,7 @@ Section C: Long Answers
       return { questions, answers };
     };
     const generatePaperWithGemini = async (selectedChapter, selectedSet) => {
-  const geminiKey = localStorage.getItem("gemini_api_key");
+      const geminiKey = localStorage.getItem("gemini_api_key") || window.DEFAULT_GEMINI_KEY;
 
   if (!geminiKey) {
     throw new Error("Gemini API key not found. Please save it in Settings.");

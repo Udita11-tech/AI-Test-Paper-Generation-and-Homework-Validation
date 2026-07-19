@@ -7,3 +7,4 @@ backend/*.pyc
 backend/**/*.pyc
 backend/data/chroma_db/
 backend/data/uploads/
+config.js
